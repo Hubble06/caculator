@@ -1,0 +1,11 @@
+C:\Users\DICCE\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\DICCE\source\repos\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\DICCE\source\repos\calculator\calculator\obj\Debug\calculator.form1.resources
+C:\Users\DICCE\source\repos\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\DICCE\source\repos\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\DICCE\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\DICCE\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\DICCE\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\DICCE\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\DICCE\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\DICCE\source\repos\calculator\calculator\obj\Debug\calculator.pdb
